@@ -1,0 +1,8 @@
+''''Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+'''$ . myvenv\Scripts\activate.ps1
+
+
+$ mkdir djangogirls
+$ cd djangogirls
+$ python3 -m venv myvenv
+C:\Users\Name\djangogirls > myvenv\Scripts\activate
